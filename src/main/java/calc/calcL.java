@@ -112,7 +112,7 @@ public class calcL {
     return inputDouble;
     }
         }
-//test
+
 
 
 
